@@ -1,4 +1,4 @@
-# js-hamburger-menu
+# JavaScriptで作成したハンバーガーメニュー
 
 ## 特徴
 
