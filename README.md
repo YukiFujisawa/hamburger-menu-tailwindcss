@@ -1,1 +1,1 @@
-# hamburger-menu-tailwindcss
+# js-hamburger-menu
